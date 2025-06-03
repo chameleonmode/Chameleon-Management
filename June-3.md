@@ -1,2 +1,4 @@
-reddit
-migrate serever 
+# ai
+sift through loggs
+# reddit
+# migrate serever 
