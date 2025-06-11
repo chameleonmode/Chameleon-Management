@@ -11,28 +11,5 @@
 11. Use the reddit API itself got searching for viral stuff.
 12. Control upvote or downvote.
 13. URLS section - to have a post url in there to upvote/comment/reply etc
-
-Yes - also URLs if they're added too.
-Simon Dadia please confirm. I don't think so. This would only happen if runs set to 2???? Sorry if im missing the point on this
-yes
-yes
-yes
-yes
-yes, but maybe also read the replies to that comment to see what people are saying and incorporate that too. Maybe look at the 2nd m,ost voted too and use all of it???? Just thinking out loud there. 
-yes
-yes
-yes
-yes
-yes
-yes, also a little more granular than that - actual comment URL. thats the fucking money shot right there
-
-
-FUCK ME - ive just had a mini brain wave - these DM's, become friends, then send them the affiliate link, clinets website etc etc
- 
- 
-2. No. It will take scenario in #1 and just run that entire automation again after it completes its full run.
- 
-The DM is super fucking powerful. Its why they removed it from the API... masssssss abuse
- 
-But people generating tons of traffic and leads etc
+14. pause
  
